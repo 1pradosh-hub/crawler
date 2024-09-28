@@ -1,5 +1,5 @@
 # crawler
-Library used
+Library used <br>
 Scrapy
 
 # Install scrapy
@@ -12,8 +12,8 @@ git clone https://github.com/1pradosh-hub/crawler.git
 cd tdb <br>
 scrapy crawl -a start_url=https://example.com/
 
-# Store file in json
+# Store data in json
 scrapy crawl -a start_url=https://example.com/ name.json
 
-# Store file in csv
+# Store data in csv
 scrapy crawl -a start_url=https://example.com/ name.csv
