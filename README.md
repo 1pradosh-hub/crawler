@@ -9,7 +9,7 @@ pip install Scrapy
 git clone https://github.com/1pradosh-hub/crawler.git
 
 # Run
-cd tdb
+cd tdb <br>
 scrapy crawl -a start_url=https://example.com/
 
 # Store file in json
